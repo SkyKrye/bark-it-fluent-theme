@@ -10,3 +10,7 @@ For this you'll need to get Mega32's Bark-It then do the following if this hasn'
 
 ## help contribute
 help me because i sux at codign and if you find any errors please raise an error or tell me on discord at "`skykrye#5867`"
+
+## credits
+this is the Fluent theme for Bark-It by made by me, skykrye and Bark-It is owned by @megaboi2005.
+Wallpaper (4u.png)'s real credit is unknown however it is likely here [in reddit](https://www.reddit.com/r/wallpaper/comments/kkxxqi/purple_sky2560x1440/)
